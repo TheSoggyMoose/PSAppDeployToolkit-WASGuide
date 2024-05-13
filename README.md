@@ -1,4 +1,4 @@
-# PSAppDeployToolkit: WAS-Guide (Winget As System)
+# PSAppDeployToolkit: WASGuide (Winget As System)
 ## Deploy Winget apps in SYSTEM context with Intune
 
 ### Why Using PSAppDeployToolkit to Install Winget Apps in the System Context is Beneficial
