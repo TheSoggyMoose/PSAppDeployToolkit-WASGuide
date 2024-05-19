@@ -271,15 +271,15 @@ create custom detection rules for insallation and uninstallation of the
 app.
 
 
-You have 2 options to choose from, **Use a custom detection script┬á**or
-**Manually configure detection rules.┬á**This guide will cover using
+You have 2 options to choose from, **Use a custom detection script** or
+**Manually configure detection rules.** This guide will cover using
 custom rules. If you are knowledgeable with scripting, you can create
 your own detection script and upload that rather than using rules.
 
 
 
 Click **+ Add** to create your rule. There are 3 rule types you can
-create:┬á
+create:
 
 -   MSI
 -   File
